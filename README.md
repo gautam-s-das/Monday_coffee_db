@@ -1,5 +1,8 @@
 # ☕ Monday Coffee — India Expansion Analysis
 
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/da013cf8-2d87-4a41-bb07-324eb0961459" />
+
+
 > **Identifying the top 3 cities in India for new Monday Coffee store locations** based on consumer demand, sales performance, and market potential — using SQL-driven analysis of online sales data from January 2023 to December 2023.
 
 ---
@@ -189,8 +192,8 @@ monday-coffee-expansion/
 
 ## 📬 Contact
 
-**Author:** [Your Name](https://github.com/your-username)  
-**LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+**Author:** [Gautam das](https://github.com/gautam-s-das)  
+**LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/gautam-das-10ba971b8/)
 
 ---
 
